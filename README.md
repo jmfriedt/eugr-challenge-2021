@@ -7,7 +7,8 @@ the two best solutions was two USRP B205mini's kindly provided by NI, who
 sponsored the conference.
 
 The description of the challenge can be seen
-[here](https://gnuradio-eu-21.sciencesconf.org/resource/page/id/3).
+[here](https://gnuradio-eu-21.sciencesconf.org/resource/page/id/3). The data
+are now in the [data](data) directory.
 
 I managed to solve this challenge shortly after it was published, and sent
 Jean-Michel a Jupyter notebook explaining my solution. Jean-Michel liked this
